@@ -1,6 +1,6 @@
-﻿Customer_Id,Customer_Name
-1,Pharmalux Solutions
-2,MediCorp Distributors
-3,Healthline Pharma
-4,MediPro Supplies
-5,PharmaConnect Inc.
+﻿Customer_Id,Customer_Name,GP_Category
+1,Pharmalux Solutions,High
+2,MediCorp Distributors,High
+3,Healthline Pharma,Low
+4,MediPro Supplies,Medium
+5,PharmaConnect Inc.,Medium
