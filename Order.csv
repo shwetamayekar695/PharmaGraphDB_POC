@@ -1,11 +1,11 @@
-﻿Order_Id,Order_Date,Order_Type
-101,1/10/23,Standard
-102,2/15/23,Return
-103,3/22/23,Return
-104,4/5/23,Standard
-105,5/18/23,Standard
-106,6/2/23,Standard
-107,7/11/23,Standard
-108,8/25/23,Standard
-109,9/14/23,Promotion
-110,10/30/23,Standard
+﻿Order_Id,Order_Date,Order_Type,On_Time_Flag
+101,1/10/23,Standard,Late
+102,2/15/23,Return,Late
+103,3/22/23,Return,On Time
+104,4/5/23,Standard,On Time
+105,5/18/23,Standard,On Time
+106,6/2/23,Standard,On Time
+107,7/11/23,Standard,Late
+108,8/25/23,Standard,On Time
+109,9/14/23,Promotion,On Time
+110,10/30/23,Standard,On Time
