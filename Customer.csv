@@ -1,6 +1,6 @@
 ﻿Customer_Id,Customer_Name,GP_Category,NPS_Group
-1,Pharmalux Solutions,High,Promoter
-2,MediCorp Distributors,High,Passive
-3,Healthline Pharma,Low,Detractor
-4,MediPro Supplies,Medium,Promoter
-5,PharmaConnect Inc.,Medium,Passive
+1,Pharmalux Solutions,High,Detractor
+2,MediCorp Distributors,High,Promoter
+3,Healthline Pharma,Low,Promoter
+4,MediPro Supplies,Medium,Passive
+5,PharmaConnect Inc.,Medium,Promoter
