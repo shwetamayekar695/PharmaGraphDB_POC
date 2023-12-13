@@ -1,1 +1,1 @@
-### Score: 57
+### Score: <span style="font-weight:normal;">57</span>
