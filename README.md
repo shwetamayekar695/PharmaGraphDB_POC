@@ -1,1 +1,1 @@
-**_Italic_**
+_Italic_
